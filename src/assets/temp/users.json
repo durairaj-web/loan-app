@@ -1,0 +1,10 @@
+{
+  "displayData": [
+    {
+      "id": 1,
+      "name": "Buy a dress",
+      "age": "August 24th",
+      "email": true
+    }
+  ]
+}

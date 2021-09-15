@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Buy a dress",
+      "day": "August 24th",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Fill Petrol",
+      "day": "August 25th",
+      "reminder": false
+    },
+    {
+      "text": "api test",
+      "day": "monday at 4pm",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "awesome toto app",
+      "day": "demo at monday 6pm",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
